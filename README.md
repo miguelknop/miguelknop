@@ -1,6 +1,6 @@
 ### Ola bem vindo ao meu perfil!👋
-Me chamo miguel :D 
-Estudo no colegio Estadual Maria Destefani Griggio
+Me chamo miguel :D.
+Estudo no colegio Estadual Maria Destefani Griggio.
 Gosto de dançar e faço academia e atualmente estou no Primeiro ano do ensino médio.
 
 <!--
